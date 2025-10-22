@@ -1,7 +1,7 @@
 //VD 3: Nhập và chiều dài và chiều rộng của một hình chữ nhật, tính và in ra chu vi và diện tích của hình chữ nhật đó.
 import java.util.Scanner;
 
-public class vidu3 {
+public class Ex03RectanglePerimeterAndArea {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

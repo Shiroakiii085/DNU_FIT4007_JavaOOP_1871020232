@@ -1,7 +1,7 @@
 //VD 4: Nhập và 3 cạnh của 1 tam giác, tính và in ra chu vi và diện tích của tam giác đó.
 import java.util.Scanner;
 
-public class vidu4 {
+public class Ex04TrianglePerimeterAndArea {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

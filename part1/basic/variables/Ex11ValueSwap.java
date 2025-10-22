@@ -1,7 +1,7 @@
 //VD 11: Nhập vào 2 số nguyên a và b, hãy hoán đổi giá trị của a và b. Ví dụ nhập a = 7, b = 5. Sau khi thực hiện chương trình thì a = 5, b = 7.
 import java.util.Scanner;
 
-public class vidu11 {
+public class Ex11ValueSwap {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap so a: ");

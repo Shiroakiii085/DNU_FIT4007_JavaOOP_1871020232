@@ -1,7 +1,7 @@
 //Vd 5: Nhập tuổi của một sinh viên tính đến năm 2023, hãy tính và in ra năm sinh viên đó.
 import java.util.Scanner;
 
-public class vidu5 {
+public class Ex05CalculateAge {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

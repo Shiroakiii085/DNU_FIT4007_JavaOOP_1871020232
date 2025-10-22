@@ -1,7 +1,7 @@
 //VD 1: Nhập vào hai số nguyên a và b, tính và in ra tổng, hiệu, tích và thương của 2 số đó.
 import java.util.Scanner;
 
-public class vidu1 {
+public class Ex01SumDiffProductQuotient {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 

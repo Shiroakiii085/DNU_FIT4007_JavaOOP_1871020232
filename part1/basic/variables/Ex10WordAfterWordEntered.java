@@ -1,7 +1,7 @@
 //Vd 10: Nhập vào 1 ký tự thường (từ 'a' đến 'y'), hãy in ra ký tư liền sau ký tự vừa nhập.
 import java.util.Scanner;
 
-public class vidu10 {
+public class Ex10WordAfterWordEntered {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Nhap vao 1 ky tu thuong (tu 'a' den 'y'): ");
