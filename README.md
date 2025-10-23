@@ -58,30 +58,30 @@ Course: FIT4007 Java OOP
 - [x]Ex15: Sum of Consecutive Products
 
 ## Part 5: Array Structure
- - []Ex01: Print Array of 5 Integers
- - []Ex02: Print N-Element Array
- - []Ex03: Print Array in Reverse Order
- - []Ex04: Sum of Array Elements
- - []Ex05: Sum of Even Elements at Odd Indices
- - []Ex06: First and Last Elements of Array
- - []Ex07: Find Max and Min in Array
- - []Ex08: Max Value and Its Frequency
- - []Ex09: Count Even Numbers in Array
- - []Ex10: Print Elements Divisible by 5
- - []Ex11: Index of Last Maximum Element
- - []Ex12: Delete Element at Index K
- - []Ex13: Check Non-Decreasing Array
+ - [x]Ex01: Print Array of 5 Integers
+ - [x]Ex02: Print N-Element Array
+ - [x]Ex03: Print Array in Reverse Order
+ - [x]Ex04: Sum of Array Elements
+ - [x]Ex05: Sum of Even Elements at Odd Indices
+ - [x]Ex06: First and Last Elements of Array
+ - [x]Ex07: Find Max and Min in Array
+ - [x]Ex08: Max Value and Its Frequency
+ - [x]Ex09: Count Even Numbers in Array
+ - [x]Ex10: Print Elements Divisible by 5
+ - [x]Ex11: Index of Last Maximum Element
+ - [x]Ex12: Delete Element at Index K
+ - [x]Ex13: Check Non-Decreasing Array
 
  ## Part 6: String in Java
-- []Ex01: Reverse a String
-- []Ex02: Count Character 'a' in String
-- []Ex03: Check Palindrome String
-- []Ex04: Count Words in String
-- []Ex05: Check if String Contains Digit
-- []Ex06: Check Pangram String
-- []Ex07: Convert String to Uppercase
-- []Ex08: Print Star Pyramid with One Loop
-- []Ex09: Count Occurrences of Each Character in String
+- [x]Ex01: Reverse a String
+- [x]Ex02: Count Character 'a' in String
+- [x]Ex03: Check Palindrome String
+- [x]Ex04: Count Words in String
+- [x]Ex05: Check if String Contains Digit
+- [x]Ex06: Check Pangram String
+- [x]Ex07: Convert String to Uppercase
+- [x]Ex08: Print Star Pyramid with One Loop
+- [x]Ex09: Count Occurrences of Each Character in String
 
 ## Part 7: Functions and Methods
  - []Ex01: Sum of Two Integers
