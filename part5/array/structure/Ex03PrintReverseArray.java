@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Ex09CountEvenNumber {
+public class Ex03PrintReverseArray {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Nhap so phan tu cua mang: ");
@@ -10,13 +10,10 @@ public class Ex09CountEvenNumber {
             System.out.print("Nhap phan tu thu " + (i + 1) + ": ");
             array[i] = scanner.nextInt();
         }
-        int countEven = 0;
-        for (int i = 0; i < array.length; i++) {
-            if (array[i] % 2 == 0) {
-                countEven++;
-            }
+        System.out.println("Mang theo thu tu nguoc lai la: ");
+        for (int i = array.length - 1; i >= 0; i--) {
+            System.out.print(array[i] + " ");
         }
-        System.out.println("So luong phan tu chan trong mang la: " + countEven);
         scanner.close();
     }
 }
